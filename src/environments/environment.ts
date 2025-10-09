@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  passwort: "adada6565"
+  password: "adada6565"
 };
