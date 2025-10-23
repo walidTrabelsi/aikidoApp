@@ -2,6 +2,7 @@
   "name": "aikido-app",
   "version": "0.0.0",
   "scripts": {
+    "preinstall": "node scripts/check-deps.js",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
